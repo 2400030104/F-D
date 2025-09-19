@@ -1,0 +1,1 @@
+const getDifference = (a, b) => Math.abs(a-b)
